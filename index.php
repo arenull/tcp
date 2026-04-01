@@ -10,7 +10,7 @@
 
 <img src='https://flq.42web.io//show.png'></img>
 </p>
-<H2><a href='https://flq.42web.io/v1.5.1.zip'>Download zip</a>https://flq.42web.io/v1.5.1.zip</H2>
-<H2><a href='https://flq.42web.io/v1.5.1.jar'>Download jar</a>https://flq.42web.io/v1.5.1.jar</H2>
+<H2><a href='https://flq.42web.io/v1.5.2.zip'>Download zip</a>https://flq.42web.io/v1.5.2.zip</H2>
+<H2><a href='https://flq.42web.io/v1.5.2.jar'>Download jar</a>https://flq.42web.io/v1.5.2.jar</H2>
 </body> 
 </html>
